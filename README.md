@@ -1,4 +1,6 @@
 # ![Ícone de Espadas](https://www.flaticon.com/svg/static/icons/svg/2978/297837.svg "link para a página do ícone") Meu Herói
+![image](https://github.com/miguellcapistrano/desafio-felipao/assets/149817927/2e80b09d-f959-4b8c-8bcd-d75324b7ebea)
+
 
 
 ## São 3 desafios de códigos JS proposto pelo mentor Felipe Silva Aguiar do curso "Potência Tech iFood - Programação do Zero" da DIO
