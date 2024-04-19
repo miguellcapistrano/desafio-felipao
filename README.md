@@ -1,4 +1,4 @@
-# ![Ícone de espada](https://gith.com/miguellcapistrano/desafio-felipao/assets/149817927/2e80b09d-f959-4b8c-8bcd-d75324b7ebea) Meu Herói
+# ![Ícone de espada width="20" height="20"](https://github.com/miguellcapistrano/desafio-felipao/assets/149817927/2e80b09d-f959-4b8c-8bcd-d75324b7ebea) Meu Herói
 
 
 
