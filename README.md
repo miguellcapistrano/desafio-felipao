@@ -1,9 +1,9 @@
 # 3 desafios de códigos JS proposto pelo mentor Felipe Silva Aguiar do curso "Potência Tech iFood - Programação do Zero" da DIO
 
 ## Sendo eles:
-1 - Definindo o nome e a quantidade de experiência e descobrindo o nível com base na experiência;
-2 - Definindo o saldo de vitórias edefinindo o nível do herói;
-3 - Escrevendo as classes de um jogo.
+- Definindo o nome e a quantidade de experiência e descobrindo o nível com base na experiência;
+- Definindo o saldo de vitórias edefinindo o nível do herói;
+- Escrevendo as classes de um jogo.
 
 ## Tecnologia Utilizada
 
