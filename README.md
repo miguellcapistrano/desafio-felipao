@@ -1,4 +1,5 @@
-# <img src="https://www.flaticon.com/br/icone-gratis/espadas_297837?term=espada&page=1&position=5&origin=search&related_id=297837](https://www.flaticon.com/br/icone-gratis/espadas_297837?term=espada&related_id=297837)" alt="espada"/> Meu Herói
+![Ícone de Espadas](https://www.flaticon.com/svg/static/icons/svg/2978/297837.svg) Meu Herói
+
 
 ## São 3 desafios de códigos JS proposto pelo mentor Felipe Silva Aguiar do curso "Potência Tech iFood - Programação do Zero" da DIO
 
