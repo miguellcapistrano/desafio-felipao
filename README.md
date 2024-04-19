@@ -4,10 +4,14 @@
 
 ## São 3 desafios de códigos JS proposto pelo mentor Felipe Silva Aguiar do curso "Potência Tech iFood - Programação do Zero" da DIO
 
-## Sendo eles
+## Sendo eles <img src="https://github.com/miguellcapistrano/desafio-felipao/assets/149817927/8f38794d-e4ff-44b4-8e06-2dc46f570725" alt="ícone de espada" width="20" height="20"/> <img src="https://github.com/miguellcapistrano/desafio-felipao/assets/149817927/11e60f88-e2cf-479f-a756-3253c5bf209b" alt="ícone de chapeu de mago" width="20" height="20"/> <img src="https://github.com/miguellcapistrano/desafio-felipao/assets/149817927/3369a787-6ffe-4766-8708-314836ea45c5" alt="ícone de monge" width="20" height="20"/> <img src="https://github.com/miguellcapistrano/desafio-felipao/assets/149817927/82f0a8a7-0d49-480b-b8bf-4039bf1abe27" alt="ícone de ninja" width="20" height="20/>
+
+
+
+
 
 - Definindo o nome e a quantidade de experiência e descobrindo o nível com base na experiência;
-- Definindo o saldo de vitórias edefinindo o nível do herói;
+- Definindo o saldo de vitórias e definindo o nível do herói;
 - Escrevendo as classes de um jogo.
 
 ## O que aprendi
