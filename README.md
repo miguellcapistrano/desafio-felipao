@@ -1,4 +1,4 @@
-# <img src="https://github.com/miguellcapistrano/desafio-felipao/assets/149817927/2e80b09d-f959-4b8c-8bcd-d75324b7ebea" alt="ícone de espada" width="20" height="20"/> Meu Herói
+# <img src="https://github.com/miguellcapistrano/desafio-felipao/assets/149817927/2e80b09d-f959-4b8c-8bcd-d75324b7ebea" alt="ícone de espada" width="20" height="20"/> Meu Herói <img src="https://github.com/miguellcapistrano/desafio-felipao/assets/149817927/2e80b09d-f959-4b8c-8bcd-d75324b7ebea" alt="ícone de espada" width="20" height="20"/>
 
 
 
