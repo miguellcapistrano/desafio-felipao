@@ -1,4 +1,6 @@
-# 3 desafios de códigos JS proposto pelo mentor Felipe Silva Aguiar do curso "Potência Tech iFood - Programação do Zero" da DIO
+# <img src="https://www.flaticon.com/br/icone-gratis/espadas_297837?term=espada&page=1&position=5&origin=search&related_id=297837" alt="espada"/> Meu Herói
+
+## São 3 desafios de códigos JS proposto pelo mentor Felipe Silva Aguiar do curso "Potência Tech iFood - Programação do Zero" da DIO
 
 ## Sendo eles
 
@@ -8,9 +10,9 @@
 
 ## O que aprendi
 
-- A utilizar uma estrutura de decisão com "switch" para determinar o nível do herói com base na quantidade de experiência acumulada. O nível é atribuído conforme a experiência do herói, e o resultado é exibido no console.
-- Calcular o nível de um herói com base no saldo de suas vitórias em um jogo. O código também utiliza uma estrutura de decisão com o comando switch para determinar o nível do herói com base no saldo de vitórias. O saldo é calculado a partir do número de vitórias e derrotas, e o resultado é exibido no console.
-- Criar classes em JavaScript para representar heróis em um jogo. O código define uma classe "meuHeroi" com um construtor para inicializar os atributos do herói (nome, idade e tipo) e um método atacar() para simular o ataque do herói. O método atacar() utiliza uma estrutura de decisão switch para determinar o tipo de ataque com base no tipo do herói, e o ataque é exibido no console.
+- A utilizar uma **estrutura de decisão com "switch"** para determinar o nível do herói com base na quantidade de experiência acumulada. O nível é atribuído conforme a experiência do herói, e o resultado é exibido no console.
+- Calcular o nível de um herói com base no saldo de suas vitórias em um jogo. O código também o "switch" para determinar o nível do herói com base no saldo de vitórias. O saldo é calculado a partir do número de vitórias e derrotas, e o resultado é exibido no console.
+- Criar **classes** em JavaScript para representar heróis em um jogo. O código define uma classe "meuHeroi" com um **construtor** para inicializar os **atributos do herói** (nome, idade e tipo) e um **método atacar()** para simular o ataque do herói. O método atacar() o "switch" para determinar o tipo de ataque com base no tipo do herói, e o ataque é exibido no console.
 
 ## Tecnologia Utilizada
 
